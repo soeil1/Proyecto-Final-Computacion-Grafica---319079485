@@ -4,10 +4,7 @@ Release/
 x64/
 Win32/
 .vs/
-Proyecto Final Computacion Grafica/Debug
-Proyecto Final Computacion Grafica/images
-Proyecto Final Computacion Grafica/Realese
-Proyecto Final Computacion Grafica/x64/Debug
+
 # Ignorar archivos temporales
 *.log
 *.ilk
@@ -16,3 +13,4 @@ Proyecto Final Computacion Grafica/x64/Debug
 *.Build.CppClean.log
 *.user
 *.exp
+*.dll
